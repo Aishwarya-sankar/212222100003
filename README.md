@@ -38,6 +38,7 @@ cd url-shortener
 ### Install dependencies:
 
 npm install
+
 Create a .env file in the root directory with the following variables:
 
 
